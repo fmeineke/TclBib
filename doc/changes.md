@@ -1,4 +1,4 @@
-IDEEN:
+## Entwicklung und Ausblick
 - tclbib sollte auch ein package werden, gerade um einge Variablen aus dem 
   global Bereich zu nehmen
 
@@ -7,9 +7,10 @@ IDEEN:
     + Control	= Tclbib::
     + Model 	= Db:: und andere
 
-BEKANNTE, NOCH FEHLENDE FEATURES:
+## Bekannte, noch fehlende Features
+keine?
 
-##BEKANNTE FEHLER
+## Bekannte Fehler
 - Suchen in Feldern mit einem , geht nicht recht ? 
 
 Diese Fehler treten nur in HPUX auf und können 
@@ -22,19 +23,19 @@ von mir nicht behoben werden:
 - Alt Tab ist blockiert
 - Tclbib läßt sich nur einmal starten 
 
-BEKANNTE UNSTIMMIGKEITEN:
+## Bekannte Unstimmigkeiten
 - soll Entry/Delete alle Mausmarkierten oder alle mit Sternchen vesehenen
   Eintraege loeschen?
 
 
 -------------------------------------------------------------------------------
-##Version 11.3.2024
+## Version 11.3.2024
 CHANGED:
-- Kleine Anpassungen nach 23 Jahre (UTF-8, md statt txt)
+- Kleine Anpassungen nach 23 Jahren (UTF-8, md statt txt)
 NEU: 
 - DOI als neue Feld
 
-##Version 20.9.2001
+## Version 20.9.2001
 NEU:
 - Mehr BibTex Formate bei new
 - Laufzeitversion ist nur noch eine komprimierte Datei, dadurch ist nun gar 
@@ -42,7 +43,7 @@ NEU:
 - Bei der Neueingabe wird eine leere TEXID korrekt belegt
 
 
-##Version 19.9.2000
+## Version 19.9.2000
 VERÄNDERT:
 - ID wird nicht mehr gespeichert
 - WarnSaver überarbeitet
@@ -51,7 +52,7 @@ VERÄNDERT:
 - Quelltext überarbeitet
 
 
-##Version 12.9.2000
+## Version 12.9.2000
 VERÄNDERT:
 - Bibtex Export exportiert alles, falls nichts selektiert war
 - Texid Erzeugung ist zuverlässiger und im neuen Format
@@ -64,7 +65,7 @@ VERÄNDERT:
 NEU:
 - Select Duplicate Texid
 
-##Version 1.7.1998
+## Version 1.7.1998
 ENTFERNTE BUGS:
 - graue Menueeintraege sind jetzt auch in 3.11 grau (in HPUX gibt es da noch
   Probleme)
@@ -78,12 +79,12 @@ NEU:
 - Export als RTF, jedoch nur der Stil wie auch in HTML
 
 
-##Version 17.4.1998
+## Version 17.4.1998
 
 ENTFERNTE BUGS:
 - NLM to ILF Filter 
 
-Version 27.3.1998
+## Version 27.3.1998
 
 NEU:
 - Edit New erzeugt einen (fast) leeren neuen Eintrag am Ende der Liste
@@ -94,7 +95,7 @@ VERÄNDERT:
 - Invert Selection, Deselect und Select All beschleunigt, hoffentlich..
 
 
-Version 23.1.1998
+## Version 23.1.1998
 
 ENTFERNTE BUGS:
 - Speicherproblem unter DOS behoben
@@ -103,7 +104,7 @@ ENTFERNTE BUGS:
 - Eckige Klammern um Titel werden entfernt
 
 
-##Version 8.1.1998
+## Version 8.1.1998
 
 NEU: 
 - komplett neue interne Datenstruktur, jeder Record ist eine Liste nur der
@@ -125,7 +126,7 @@ VERÄNDERT:
   einem Abbruch.
 - alle bekannten exotischen Namensformen werden korrekt importiert 
 
-##Version 10.12.1997
+## Version 10.12.1997
 
 NEU:
 
@@ -146,7 +147,7 @@ Medline Download Verfahren 10.12.97
 - 	"Save the above reports in \[Mac/PC/Unix ist fur tclbib egal\] [Text]"
 
 
-##Version 9.12.1997
+## Version 9.12.1997
 
 BUGFIX:
 - man kann wieder speichern...
@@ -161,7 +162,7 @@ NEU:
   Aenderungen in diesem Sinn. Save setzt die Anzahl wieder auf 0.
 
 -------------------------------------------------------------------------------
-##Version 7.12.97
+## Version 7.12.97
 
 NEU:
 - Suchen geht jetzt sehr viel differenzierter ueber alle (zuviele) 
