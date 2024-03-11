@@ -6,6 +6,8 @@ Tcl/Tk was available from Windows 3.11 to Unix.
 After a development break of almost 25 years, I realized in 2024 that the system still works practically without any changes. Reason to hand it over to the public and for all mankind.
 UTF-8, DOI, Markdown are now established - I'll add this here in 2024.
 
+<img width="914" alt="image" src="https://github.com/fmeineke/TclBib/assets/18530253/559fcbf6-c648-4290-a7cc-b42da702693b">
+
 ### German
 Ich schrieb dieses Programm Ende der 90er Jahre.  Ziel war eine stabile, grafische, multiplattform Entwicklung mit Schnittstellen zur https://pubmed.ncbi.nlm.nih.gov/. 
 Tcl/Tk war von Windows 3.11 bis Unix verfügbar. 
