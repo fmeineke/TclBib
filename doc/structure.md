@@ -1,12 +1,12 @@
-#Aufbau des Tclbib Programms
+# Aufbau des Tclbib Programms
 
-##Pflichtenheft:
+## Pflichtenheft
 - alle Daten liegen in einer Textdatei
 - Import von Medline Daten
 - Eintragen eigener Bemerkungen zu einem Eintrag
     
     
-##Model-View-Controller
+## Model-View-Controller
 
 Gui:: 
 - enthält alle Viewspezifischen Routinen, insbesondere alle TK Befehle.
