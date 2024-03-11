@@ -1,4 +1,4 @@
-##Warum das *.ilf Format?
+## Warum das *.ilf Format?
 - Datenbasis ist ASCII Text
 - Format soll gut maschinenlesbar und konvertierbar sein
 - Format soll gut menschenlesbar sein und auch in einem einfachen Texteditor
@@ -7,7 +7,7 @@
 - ...
 
 ---------------------------------------------------------------------------
-##Aufbau des *.ilf Format für TclBib:
+## Aufbau des *.ilf Format für TclBib:
 
 
 - eine Referenz besteht aus mehreren Eintragszeilen der Form 
@@ -102,7 +102,7 @@ Interne, von tclbib selbst generierte:
 
 ---------------------------------------------------------------------------
 
-##Beispiel einer *.ilf Datei:
+## Beispiel einer *.ilf Datei:
 
 
     # ILF Literature Database
