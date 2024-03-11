@@ -143,7 +143,7 @@ Medline Download Verfahren 10.12.97
 - 	Wähle: Medline Report
 - 	Display (möglichst viele auf einmal)
 - 	wichtig: erste Textzeile ist ein UI  - usf
-- 	"Save the above reports in [Mac/PC/Unix ist fur tclbib egal] [Text]"
+- 	"Save the above reports in \[Mac/PC/Unix ist fur tclbib egal\] [Text]"
 
 
 ##Version 9.12.1997
